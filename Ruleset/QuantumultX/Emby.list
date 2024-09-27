@@ -1,7 +1,9 @@
 # 内容：Emby
-# 数量：28条
+# 数量：31条
 HOST-SUFFIX,cf.jmsooo.com,Emby
 HOST-SUFFIX,cf.xmsl.org,Emby
+HOST-SUFFIX,cf1.jmsuper.com,Emby
+HOST-SUFFIX,cf2.jmsuper.com,Emby
 HOST-SUFFIX,cfde.xmsl.org,Emby
 HOST-SUFFIX,charontv.com,Emby
 HOST-SUFFIX,emby.aca.best,Emby
@@ -9,6 +11,7 @@ HOST-SUFFIX,emby.wtf,Emby
 HOST-SUFFIX,emby.ytoo.li,Emby
 HOST-SUFFIX,emby2.misakaf.org,Emby
 HOST-SUFFIX,free.xmsl.org,Emby
+HOST-SUFFIX,jmsuper.com,Emby
 HOST-SUFFIX,line.xmsl.org,Emby
 HOST-SUFFIX,misakaf.org,Emby
 HOST-SUFFIX,play.charontv.com,Emby
