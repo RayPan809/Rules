@@ -2,6 +2,8 @@
 # 数量：29条
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,cf.xmsl.org
+DOMAIN-SUFFIX,cf1.jmsuper.com
+DOMAIN-SUFFIX,cf2.jmsuper.com
 DOMAIN-SUFFIX,cfde.xmsl.org
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,emby.aca.best
@@ -9,6 +11,7 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,emby.ytoo.li
 DOMAIN-SUFFIX,emby2.misakaf.org
 DOMAIN-SUFFIX,free.xmsl.org
+DOMAIN-SUFFIX,jmsuper.com
 DOMAIN-SUFFIX,line.xmsl.org
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,play.charontv.com
