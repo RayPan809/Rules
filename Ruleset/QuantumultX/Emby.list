@@ -1,5 +1,5 @@
 # 内容：Emby
-# 数量：31条
+# 数量：32条
 HOST-SUFFIX,cf.jmsooo.com,Emby
 HOST-SUFFIX,cf.xmsl.org,Emby
 HOST-SUFFIX,cf1.jmsuper.com,Emby
@@ -22,6 +22,7 @@ HOST-SUFFIX,pub1.emby.wtf,Emby
 HOST-SUFFIX,pub2.emby.wtf,Emby
 HOST-SUFFIX,pub3.emby.wtf,Emby
 HOST-SUFFIX,push-kr.misakaf.org,Emby
+HOST-SUFFIX,stentvessel.xyz,Emby
 HOST-SUFFIX,stream1.misakaf.org,Emby
 HOST-SUFFIX,stream2.misakaf.org,Emby
 HOST-SUFFIX,stream3.misakaf.org,Emby
