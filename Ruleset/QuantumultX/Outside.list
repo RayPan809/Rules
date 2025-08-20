@@ -1,3 +1,6 @@
 # FX财经
 HOST-SUFFIX,fx168news.com,Outside
 HOST-SUFFIX,fxstreet.cn,Outside
+
+# 数据
+HOST-SUFFIX,wikifx.com,Outside
