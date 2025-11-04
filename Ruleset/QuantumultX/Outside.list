@@ -2,5 +2,9 @@
 HOST-SUFFIX,fx168news.com,Outside
 HOST-SUFFIX,fxstreet.cn,Outside
 
+# MetaQuotes
+HOST-SUFFIX,metatrader4.com,Outside
+HOST-SUFFIX,metatrader5.com,Outside
+
 # 数据
 HOST-SUFFIX,wikifx.com,Outside
