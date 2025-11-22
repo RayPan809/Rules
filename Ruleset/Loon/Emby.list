@@ -1,5 +1,5 @@
 # 内容：Emby
-# 数量：33条
+# 数量：30条
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,cf.xmsl.org
 DOMAIN-SUFFIX,cf1.jmsuper.com
@@ -27,9 +27,6 @@ DOMAIN-SUFFIX,stream1.misakaf.org
 DOMAIN-SUFFIX,stream2.misakaf.org
 DOMAIN-SUFFIX,stream3.misakaf.org
 DOMAIN-SUFFIX,stream4.misakaf.org
-DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
-PROCESS-NAME,com.mb.android
-IP-CIDR,102.223.180.108/32,no-resolve
