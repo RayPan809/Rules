@@ -1,6 +1,6 @@
 proxy-groups:
   - name: 节点选择
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Rocket.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Rocket.png
     type: select
     proxies:
       - 香港节点
@@ -12,11 +12,11 @@ proxy-groups:
       - 手动选择
       - 全球直连
   - name: 手动选择
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Proxy.png
     include-all: true
     type: select
   - name: Telegram
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Telegram.png
     type: select
     proxies:
       - 节点选择
@@ -28,7 +28,7 @@ proxy-groups:
       - 韩国节点
       - 全球直连
   - name: OpenAI
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AI.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/AI.png
     type: select
     proxies:
       - 节点选择
@@ -40,7 +40,7 @@ proxy-groups:
       - 韩国节点
       - 全球直连
   - name: YouTube
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/YouTube.png
     type: select
     proxies:
       - 节点选择
@@ -52,7 +52,7 @@ proxy-groups:
       - 韩国节点
       - 全球直连
   - name: Netflix
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Netflix.png
     type: select
     proxies:
       - 节点选择
@@ -64,7 +64,7 @@ proxy-groups:
       - 韩国节点
       - 全球直连
   - name: Disney+
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney+_1.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Disney+_1.png
     type: select
     proxies:
       - 节点选择
@@ -76,7 +76,7 @@ proxy-groups:
       - 韩国节点
       - 全球直连
   - name: Emby
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Emby.png
     type: select
     proxies:
       - 节点选择
@@ -88,7 +88,7 @@ proxy-groups:
       - 韩国节点
       - 全球直连
   - name: Spotify
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Spotify.png
     type: select
     proxies:
       - 节点选择
@@ -100,7 +100,7 @@ proxy-groups:
       - 韩国节点
       - 全球直连
   - name: TikTok
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/TikTok.png
     type: select
     proxies:
       - 节点选择
@@ -112,21 +112,21 @@ proxy-groups:
       - 韩国节点
       - 全球直连
   - name: 巴哈姆特
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bahamut.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Bahamut.png
     type: select
     proxies:
       - 台湾节点
       - 节点选择
       - 全球直连
   - name: 哔哩哔哩
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/bilibili.png
     type: select
     proxies:
       - 全球直连
       - 香港节点
       - 台湾节点
   - name: 国外媒体
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Streaming.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Streaming.png
     type: select
     proxies:
       - 节点选择
@@ -138,14 +138,14 @@ proxy-groups:
       - 韩国节点
       - 全球直连
   - name: 国内媒体
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/StreamingCN.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/StreamingCN.png
     type: select
     proxies:
       - 全球直连
       - 香港节点
       - 台湾节点
   - name: Speedtest
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Speedtest.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Speedtest.png
     type: select
     proxies:
       - 节点选择
@@ -157,7 +157,7 @@ proxy-groups:
       - 韩国节点
       - 全球直连
   - name: PayPal
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PayPal.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/PayPal.png
     type: select
     proxies:
       - 全球直连
@@ -169,7 +169,7 @@ proxy-groups:
       - 台湾节点
       - 韩国节点
   - name: 苹果服务
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_1.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Apple_1.png
     type: select
     proxies:
       - 全球直连
@@ -181,7 +181,7 @@ proxy-groups:
       - 台湾节点
       - 韩国节点
   - name: 谷歌服务
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png
     type: select
     proxies:
       - 全球直连
@@ -193,7 +193,7 @@ proxy-groups:
       - 台湾节点
       - 韩国节点
   - name: 微软服务
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Microsoft.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Microsoft.png
     type: select
     proxies:
       - 全球直连
@@ -205,7 +205,7 @@ proxy-groups:
       - 台湾节点
       - 韩国节点
   - name: 游戏平台
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Game.png
     type: select
     proxies:
       - 全球直连
@@ -217,47 +217,47 @@ proxy-groups:
       - 台湾节点
       - 韩国节点
   - name: 全球直连
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Direct.png
     type: select
     proxies:
       - DIRECT
   - name: 香港节点
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Hong_Kong.png
     include-all: true
     filter: (?i)港|HK|Hong
     type: url-test
     interval: 300
     tolerance: 50
   - name: 日本节点
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Japan.png
     include-all: true
     filter: (?i)日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan
     type: url-test
     interval: 300
     tolerance: 50
   - name: 美国节点
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/United_States.png
     include-all: true
     filter: (?i)美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States
     type: url-test
     interval: 300
     tolerance: 50
   - name: 狮城节点
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Singapore.png
     include-all: true
     filter: (?i)新加坡|坡|狮城|SG|Singapore
     type: url-test
     interval: 300
     tolerance: 50
   - name: 台湾节点
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Taiwan.png
     include-all: true
     filter: (?i)台|TW|Tai
     type: url-test
     interval: 300
     tolerance: 50
   - name: 韩国节点
-    icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png
+    icon: https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Korea.png
     include-all: true
     filter: (?i)KR|Korea|KOR|首尔|韩|韓
     type: url-test
@@ -266,241 +266,233 @@ proxy-groups:
 
 rule-providers:
   Lan:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.list
-    path: ./ruleset/Lan.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Direct:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Direct/Direct.list
-    path: ./ruleset/Direct.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  Advertising:
-    url: https://adrules.top/adrules-mihomo.mrs
-    path: ./ruleset/adrules-mihomo.mrs
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Lan/Lan.yaml
+    path: ./ruleset/Lan.yaml
     behavior: domain
     interval: 86400
-    format: text
+    format: yaml
+    type: http
+  Direct:
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Direct/Direct.yaml
+    path: ./ruleset/Direct.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
     type: http
   SteamCN:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/SteamCN/SteamCN.list
-    path: ./ruleset/SteamCN.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/SteamCN/SteamCN.yaml
+    path: ./ruleset/SteamCN.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   AppleMail:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/AppleMail/AppleMail.list
-    path: ./ruleset/AppleMail.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/AppleMail/AppleMail.yaml
+    path: ./ruleset/AppleMail.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Mail:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Mail/Mail.list
-    path: ./ruleset/Mail.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Mail/Mail.yaml
+    path: ./ruleset/Mail.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   YouTube:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTube/YouTube.list
-    path: ./ruleset/YouTube.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/YouTube/YouTube.yaml
+    path: ./ruleset/YouTube.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Netflix:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Netflix/Netflix.list
-    path: ./ruleset/Netflix.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Netflix/Netflix.yaml
+    path: ./ruleset/Netflix.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Disney:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Disney/Disney.list
-    path: ./ruleset/Disney.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Disney/Disney.yaml
+    path: ./ruleset/Disney.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Emby:
-    url: https://raw.githubusercontent.com/RayPan809/Rules/main/Ruleset/Clash/Emby.list
-    path: ./ruleset/Emby.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/RayPan809/Rules@main/Ruleset/Clash/Emby.yaml
+    path: ./ruleset/Emby.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Spotify:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list
-    path: ./ruleset/Spotify.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Spotify/Spotify.yaml
+    path: ./ruleset/Spotify.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   TikTok:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/TikTok/TikTok.list
-    path: ./ruleset/TikTok.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/TikTok/TikTok.yaml
+    path: ./ruleset/TikTok.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Bahamut:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.list
-    path: ./ruleset/Bahamut.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Bahamut/Bahamut.yaml
+    path: ./ruleset/Bahamut.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   BiliBiliIntl:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/BiliBiliIntl/BiliBiliIntl.list
-    path: ./ruleset/BiliBiliIntl.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BiliBiliIntl/BiliBiliIntl.yaml
+    path: ./ruleset/BiliBiliIntl.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   GlobalMedia:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia.list
-    path: ./ruleset/GlobalMedia.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/GlobalMedia/GlobalMedia.yaml
+    path: ./ruleset/GlobalMedia.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   ChinaMedia:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.list
-    path: ./ruleset/ChinaMedia.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/ChinaMedia/ChinaMedia.yaml
+    path: ./ruleset/ChinaMedia.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Speedtest:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Speedtest/Speedtest.list
-    path: ./ruleset/Speedtest.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Speedtest/Speedtest.yaml
+    path: ./ruleset/Speedtest.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   PayPal:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PayPal/PayPal.list
-    path: ./ruleset/PayPal.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/PayPal/PayPal.yaml
+    path: ./ruleset/PayPal.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Telegram:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.list
-    path: ./ruleset/Telegram.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Telegram/Telegram.yaml
+    path: ./ruleset/Telegram.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   OpenAI:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list
-    path: ./ruleset/OpenAI.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/OpenAI/OpenAI.yaml
+    path: ./ruleset/OpenAI.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Apple:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list
-    path: ./ruleset/Apple.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Apple/Apple.yaml
+    path: ./ruleset/Apple.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Google:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Google/Google.list
-    path: ./ruleset/Google.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Google/Google.yaml
+    path: ./ruleset/Google.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Microsoft:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Microsoft/Microsoft.list
-    path: ./ruleset/Microsoft.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Microsoft/Microsoft.yaml
+    path: ./ruleset/Microsoft.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Epic:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Epic/Epic.list
-    path: ./ruleset/Epic.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Epic/Epic.yaml
+    path: ./ruleset/Epic.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Origin:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Origin/Origin.list
-    path: ./ruleset/Origin.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Origin/Origin.yaml
+    path: ./ruleset/Origin.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Sony:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Sony/Sony.list
-    path: ./ruleset/Sony.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Sony/Sony.yaml
+    path: ./ruleset/Sony.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Steam:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Steam/Steam.list
-    path: ./ruleset/Steam.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Steam/Steam.yaml
+    path: ./ruleset/Steam.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Nintendo:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list
-    path: ./ruleset/Nintendo.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Nintendo/Nintendo.yaml
+    path: ./ruleset/Nintendo.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Global:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Global/Global.list
-    path: ./ruleset/Global.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Global/Global.yaml
+    path: ./ruleset/Global.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Outside:
-    url: https://raw.githubusercontent.com/RayPan809/Rules/main/Ruleset/Clash/Outside.list
-    path: ./ruleset/Outside.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/RayPan809/Rules@main/Ruleset/Clash/Outside.yaml
+    path: ./ruleset/Outside.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   China:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/China/China.list
-    path: ./ruleset/China.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/China/China.yaml
+    path: ./ruleset/China.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Inside:
-    url: https://raw.githubusercontent.com/RayPan809/Rules/main/Ruleset/Clash/Inside.list
-    path: ./ruleset/Inside.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/RayPan809/Rules@main/Ruleset/Clash/Inside.yaml
+    path: ./ruleset/Inside.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
   Download:
-    url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Download/Download.list
-    path: ./ruleset/Download.list
-    behavior: classical
+    url: https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Download/Download.yaml
+    path: ./ruleset/Download.yaml
+    behavior: domain
     interval: 86400
-    format: text
+    format: yaml
     type: http
 
 rules:
   - "RULE-SET,Lan,全球直连"
   - "RULE-SET,Direct,全球直连"
-  - "RULE-SET,Advertising,REJECT"
   - "RULE-SET,SteamCN,全球直连"
   - "RULE-SET,AppleMail,全球直连"
   - "RULE-SET,Mail,全球直连"
