@@ -1,4 +1,5 @@
-# 路由器等不需要代理的IP段
+# 内容：Lan
+# 数量：9条
 
 IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
 IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
